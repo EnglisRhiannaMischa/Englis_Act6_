@@ -1,0 +1,47 @@
+h1{
+  color: hsl(309, 86%, 51%);
+    background-color: #0d0b4d;
+    text-align: center;
+}
+
+  color: hsl(309, 86%, 51%);
+    background-color: #0d0b4d;
+    text-align: center;
+
+
+h2{
+    color: rgb(187, 84, 162); 
+    text-align: center; 
+}
+
+h5{
+    text-align: center;
+}
+
+h3{
+    color: rgb(161, 87, 160)
+    text-align: center
+}
+
+p{
+    color: rgb(224, 122, 191);
+    text-align: center;
+}
+
+h4{
+    color: rgb(249, 155, 227);
+    text-align: center;
+}
+
+
+ol{
+    color: rgb(212, 109, 195);
+    text-align: center;
+}
+
+ul{
+    color: rgb(139, 0, 113);
+    text-align: center;
+
+
+}
